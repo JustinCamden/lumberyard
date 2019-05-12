@@ -139,27 +139,45 @@
 /SetupAssistant.bat
 
 # Custom ignore files
-/docs/
-/dev/_WF_/android/dev.keystore
-/dev/Gems/Playground
-/dev/Tools/Redistributables/Directx 9\.0c/
-/dev/Tools/Redistributables/Visual Studio 2017/
-/dev/Tools/Redistributables/Visual Studio 2015/
-/dev/Tools/Redistributables/Visual Studio 2012/
-/dev/Tools/Redistributables/QtgaImageFormatPlugin/
-/dev/Tools/Redistributables/FbxSdk/
-/dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/prerequisites/
-/dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.xz/
-/dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.zip/
-/dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.msi/
-/dev/Tools/Redistributables/vc_mbcsmfx.exe
-!**/*.pyc
-!**/*.log
-!**/*.dat
-!**/*metadata
-/dev/Editor/editorlayout.xml
-/dev/CrashUploaderLog.txt
-/dev/FocusFire
-/dev/bootstrap.cfg
-/dev/waf_branch_spec.pyc
-/dev/_WAF_/user_settings.options
+filhashes.json
+dev/Editor/editoreventlag.xml
+dev/SessionStatus/editor_statuses.json
+dev/UserSettings.xml
+dev/Bin64vc140.Debug.Dedicated/
+dev/Bin64vc140.Debug.Test/
+dev/Bin64vc140.Dedicated/
+dev/.vs.VSWorkspaceState.json
+dev/Tools/LmbrSetup/Win.vc140.Debug.Test/
+dev/Bin64vc141/
+dev/Tools/LmbrSetup/Win.vc141.Debug/
+dev/Bin64vc141.Dedicated/
+dev/Bin64vc141.Debug/
+dev/Bin64vc141.Debug.Test/
+dev/Bin64vc141.Dedicated/
+dev/Tools/LmbrSetup/Win.vc141.Debug.Test/
+dev/TestResults/
+
+docs/
+dev/_WF_/android/dev.keystore
+dev/Gems/Playground
+dev/Tools/Redistributables/Directx 9\.0c/
+dev/Tools/Redistributables/Visual Studio 2017/
+dev/Tools/Redistributables/Visual Studio 2015/
+dev/Tools/Redistributables/Visual Studio 2012/
+dev/Tools/Redistributables/QtgaImageFormatPlugin/
+dev/Tools/Redistributables/FbxSdk/
+dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/prerequisites/
+dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.xz/
+dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.zip/
+dev/Tools/Redistributables/WwiseLTX/LTX_2017\.2\.4\.6590/bundle/*.msi/
+dev/Tools/Redistributables/vc_mbcsmfx.exe
+**/*.pyc
+**/*.log
+**/*.dat
+*/*metadata
+dev/Editor/editorlayout.xml
+dev/CrashUploaderLog.txt
+dev/FocusFire
+dev/bootstrap.cfg
+dev/waf_branch_spec.pyc
+dev/_WAF_/user_settings.options
