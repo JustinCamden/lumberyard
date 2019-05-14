@@ -1,0 +1,12 @@
+{
+    "auto": {
+        "Include": [
+            "Include/LumberyardStarter/LumberyardStarterBus.h"
+        ],
+        "Source": [
+            "Source/LumberyardStarterModule.cpp",
+            "Source/LumberyardStarterSystemComponent.cpp",
+            "Source/LumberyardStarterSystemComponent.h"
+        ]
+    }
+}

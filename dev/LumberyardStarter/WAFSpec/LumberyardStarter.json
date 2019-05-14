@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for LumberyardStarter",
+    "visual_studio_name": "LumberyardStarter",
+    "comment" : "",
+    "game_projects" : "LumberyardStarter",
+
+    "modules" : [
+    ]
+}
